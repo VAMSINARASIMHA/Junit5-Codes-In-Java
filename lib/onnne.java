@@ -24,4 +24,10 @@ public class onnne {
             assertEquals(exp,actual);
         }
     // }
+    @Test
+    public void Volvo()
+    {
+        String str = "hai";
+        assertTrue(str.equals("hai"));
+    }
 }
