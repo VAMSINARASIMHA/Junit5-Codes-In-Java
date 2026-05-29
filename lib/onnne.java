@@ -23,11 +23,12 @@ public class onnne {
             int exp=6;
             assertEquals(exp,actual);
         }
-    // }
-    @Test
-    public void Volvo()
-    {
-        String str = "hai";
-        assertTrue(str.equals("hai"));
-    }
+
+        @Test
+        public void Volvo()
+        {
+            String str = "hai";
+            assertTrue(str.equals("hai"));
+        }
+
 }
